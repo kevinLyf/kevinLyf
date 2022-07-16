@@ -1,4 +1,4 @@
-## Oiii eu sou o Kevin Ferreira, Front-End Developer💻
+## Oiii eu sou o Kevin Ferreira
 <!--
 **kevinLyf/kevinLyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
