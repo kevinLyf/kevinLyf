@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinLyf&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinLyf&layout=compact)](https://github.com/kevinLyf/github-readme-stats)
- ![Snake animation](https://github.com/kevinLyf/kevinLyf/blob/output/github-contribution-grid-snake.svg)
+ [![Snake animation](https://github.com/kevinLyf/kevinLyf/blob/output/github-contribution-grid-snake.svg)
