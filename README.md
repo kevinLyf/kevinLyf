@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinLyf&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinLyf&layout=compact)](https://github.com/kevinLyf/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinLyf)](https://github.com/kevinLyf/github-readme-stats)
+[![kevinLyf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinLyf)](https://github.com/kevinLyf/github-readme-stats)
