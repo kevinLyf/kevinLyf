@@ -4,7 +4,7 @@
     <b>Welcome to my Github!</b><br><br>
     <i>
         I'm Kevin.<br>
-        I'm currently focused on getting better at Typescript and Javascript <br>
+        I'm currently focused on getting better at Flutter ❤️<br>
         Open to collaborating on interesting and innovative projects. <br>
     </i><br>
    
